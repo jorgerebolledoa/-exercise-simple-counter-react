@@ -6,10 +6,7 @@ const Home = () => {
 	return (
 		<div>
 			<>
-				<Cards
-					imageUrl="http://via.placeholder.com/350x150"
-					title="A nice image"
-				/>
+				<Cards />
 			</>
 		</div>
 	);
